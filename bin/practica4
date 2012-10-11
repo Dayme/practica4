@@ -1,4 +1,0 @@
-desc "Run Test"
-task :tests do
-sh ruby -Ilib test/tc_circunferencia.rb
-end

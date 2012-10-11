@@ -1,0 +1,6 @@
+
+
+task :default => [:tests]
+task :tests do
+     ruby "-Ilib test/tc_circunferencia.rb"
+end

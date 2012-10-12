@@ -1,0 +1,10 @@
+#!/usr/bin/env ruby
+require 'circunferencia.rb'
+
+
+puts 'Introduzca el perimetro de la circunferncia'
+STDOUT.flush
+perimetro = gets.chomp
+circunf = Circunferencia.new(perimetro)
+circunf.radio
+

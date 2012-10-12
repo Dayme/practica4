@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 require 'circunferencia.rb'
-
+require 'rubygems'
+ require 'action_pack'
 
 puts 'Introduzca el perimetro de la circunferncia'
 STDOUT.flush

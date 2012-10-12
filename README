@@ -1,0 +1,8 @@
+Circunferencia: Calcula el radio de una circunferencia dado su perimetro. 
+
+Autor: Dayme Gonzalez Rodriguez
+Sitio Web: https://github.com/Dayme/practica4.git
+
+Descripcion: 
+
+El usuario debe insertar por teclado un perimetro para la circunferncia y sera calculado su radio. En caso de introducirse un numero negativo o cualquier valor no numerico, se producira una excepcion que detendra el programa. 
